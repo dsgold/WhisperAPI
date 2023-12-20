@@ -8,5 +8,5 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 FastAPI:
 pip install fastapi
 
-for sharing
+for sharing:
 pip install "uvicorn[standard]"
